@@ -1,5 +1,4 @@
-package main
-
+package toxicfilter
 import (
 	"bufio"
 	"os"
